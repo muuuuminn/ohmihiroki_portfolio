@@ -23,5 +23,5 @@ yarn-error.log*
 config.js
 secret_config.js
 /.firebase
-firebase.rules
+firestore.rules
 storage.rules
