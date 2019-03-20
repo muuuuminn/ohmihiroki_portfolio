@@ -1,5 +1,5 @@
 <template>
-  <v-footer height="auto" app fixed>
+  <v-footer height="auto" app>
     <v-card tile class="text-xs-center flex">
       <v-card-text>
         <v-btn

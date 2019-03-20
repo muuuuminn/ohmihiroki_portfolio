@@ -25,13 +25,7 @@
             >
               Demo
             </v-btn>
-            <v-btn
-              class="white--text "
-              :href="repo.html_url"
-              target="_blank"
-              rel="noopener"
-              flat
-            >
+            <v-btn class="white--text " :href="repo.html_url" target="_blank" rel="noopener" flat>
               Source Code
             </v-btn>
           </v-card-actions>
