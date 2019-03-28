@@ -4,6 +4,7 @@ import router from './router';
 import store from './store/index';
 import Vuetify from 'vuetify';
 import 'vuetify/dist/vuetify.min.css';
+import firebase from '@/firebase';
 
 Vue.use(Vuetify, {
   theme: {
@@ -21,5 +22,6 @@ Vue.config.productionTip = false;
 new Vue({
   router,
   store,
+  firebase,
   render: h => h(App),
 }).$mount('#app');

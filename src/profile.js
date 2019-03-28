@@ -44,6 +44,11 @@ module.exports = {
       remarks: 'サーバーサイドをJavaScriptで書けることに興味を持ち、最近勉強し始めた。',
     },
     {
+      name: 'Figma',
+      period: '数日',
+      remarks: 'https://www.figma.com/file/Xqy8DVpVV2WCIKduGEv8uhsy/Main-Page?node-id=0%3A1',
+    },
+    {
       name: 'Salesforce',
       period: '2年',
       remarks: '基本的な機能は全て経験済み。LightningExperience環境の構築が得意。',
